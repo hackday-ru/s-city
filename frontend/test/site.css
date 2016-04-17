@@ -1,0 +1,26 @@
+body{
+	margin-top:0px;
+}
+#map-border{
+}
+#mapid{
+	height:720px;
+}
+#fixbox{
+	z-index:2;
+	height:60px;
+	width: 100%;
+	position:fixed;
+}
+input, .formtext{
+	height:26px;
+	float:left;
+	margin-left:8px;
+}
+.formtext{
+	color:white;
+	font-size: 1.3em;
+}
+#first{
+	margin-left:40px;
+}
